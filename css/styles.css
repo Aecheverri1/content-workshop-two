@@ -128,7 +128,7 @@ main {
     background-color: rgba(255, 255, 255, 0.132);
     box-shadow: 8px 8px 22px -14px rgba(66, 68, 90, 1);
 }
-form {
+.form {
     display: flex;
     flex-direction: column;
     width: 90%;
